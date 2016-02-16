@@ -20,6 +20,7 @@ documented the most important ones.
      persistence
      search
      security
+     hash
 
 When you get in touch with another bundle of Sulu, which is not documented in
 this place. Tell us. We'll provide the documentation.
