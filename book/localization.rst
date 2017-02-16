@@ -38,6 +38,8 @@ localizations: ``en``, ``en-us``, ``en-gb``, ``de``, ``de-de``, ``de-at``,
 ``de-ch``, whereby ``en-us`` and ``en-gb`` are falling back to ``en``, and
 ``de-de``, ``de-at`` and ``de-ch`` are falling back to ``de``.
 
+After adding a new localization you must run ``app/console sulu:document:initialize`` to create the new locale node in PHPCR.
+
 Adding custom localizations
 ---------------------------
 
